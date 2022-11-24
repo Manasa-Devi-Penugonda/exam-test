@@ -1,0 +1,13 @@
+.card{
+    background-color: pink;
+    border-radius:12px;
+    width:150px;
+    padding:12px;
+  }
+  .button{
+    background-color:aliceblue;
+    border-radius:12px;
+    border-color: aliceblue;
+  
+  }
+  
